@@ -1,0 +1,11 @@
+eye 4 4 4
+look 0 0 0
+up 0 1 0
+d 2
+bounds -1 -1 1 1
+res 512 512
+ambient 0.2 0.2 0.2
+light 0 4 4 1 0.50 0.25 0.25
+light 4 0 4 1 0.25 0.50 0.25
+sphere 0.0 0.0 0.0 1.0 0.6 0.6 0.6
+model 0.0 0.0 0.0 1.0 0.0 0.0 0.0 cow_centered.obj
